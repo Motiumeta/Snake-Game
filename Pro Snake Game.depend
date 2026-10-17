@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1766910331 source:c:\users\lenovo-pc\onedrive\documents\c++ project\pro snake game\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<conio.h>
+
